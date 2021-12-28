@@ -15,18 +15,18 @@
 <br>
 <b>Can work using other tools too</b>
 <h3 class="center">Stats 📊</h3>
-<a href="https://github.com/toxicrecker?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=toxicrecker&show_icons=true&count_private=false&theme=radical" class="center"></a>
+<a href="https://github.com/MysteriousK69?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=mysteriousk69&show_icons=true&count_private=false&theme=radical" class="center"></a>
 <br>
-<a href="https://github.com/toxicrecker?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toxicrecker&show_icons=true&count_private=false&theme=radical" class="center"></a>
+<a href="https://github.com/mysteriousk69?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysteriousk69&show_icons=true&count_private=false&theme=radical" class="center"></a>
 <br>
 <br>
 <h3 class="center">Status 📄</h3>
-<a href="https://discord.com/users/438672336921690112"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-1/438672336921690112.png"></a>
+<a href="https://discord.com/users/840123998767022110"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-1/840123998767022110.png"></a>
 <br>
 <br>
 <table>
 <tr><th colspan="2"><b>Contact Me</b></th></tr>
-<tr><td><b>E-Mail</b></td><td><b><a href="mailto:business.recker@gmail.com">business.recker@gmail.com</a></b></td></tr>
-<tr><td><b>Discord</b></td><td><b><a href="https://discord.com/users/438672336921690112">toxic_recker#2795</a></b></td></tr>
+<tr><td><b>E-Mail</b></td><td><b><a href="mailto:mysteriousk69420@gmail.com">mysteriousk69420@gmail.com</a></b></td></tr>
+<tr><td><b>Discord</b></td><td><b><a href="https://discord.com/users/840123998767022110">MisuteriasuKe#6969</a></b></td></tr>
 </table>
 </div>
