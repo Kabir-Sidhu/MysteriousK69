@@ -21,7 +21,7 @@
 <br>
 <br>
 <h3 class="center">Status 📄</h3>
-<a href="https://discord.com/users/840123998767022110"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-1/840123998767022110.png"></a>
+<a href="https://discord.com/users/840123998767022110"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-3/840123998767022110.png"></a>
 <br>
 <br>
 <table>
