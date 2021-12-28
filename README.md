@@ -13,9 +13,7 @@
 <br>
 <a href="https://code.visualstudio.com"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white" class="center"></a>
 <br>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="C++" src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social" class="center"></a>
-<br>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" src="https://img.shields.io/badge/C?style=for-the-badge&logo=python&logoColor=white" class="center"></a>
+<b>Can work using other tools too</b>
 <h3 class="center">Stats 📊</h3>
 <a href="https://github.com/toxicrecker?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=toxicrecker&show_icons=true&count_private=false&theme=radical" class="center"></a>
 <br>
