@@ -1,6 +1,6 @@
 <div class="center">
 <h3 class="center">Hello 👋</h3>
-<span class="center"><b>I am interested in coding, anime, games, mathematics, and physics. I am a gacha addict, and making custom Discord bots, websites, etc. Contact me if you are interested.</b></span>
+<span class="center"><b>I am interested in coding, anime, games (VALORANT), mathematics, and physics. Making custom Discord bots, websites, etc. Contact me if you are interested.</b></span>
 <br>
 <h3 class="center">Experience and Tools 🛠️</h3>
 <a href="https://python.org"><img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" class="center"></a>
