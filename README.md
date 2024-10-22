@@ -26,7 +26,7 @@
 <br>
 <table>
 <tr><th colspan="2"><b>Contact Me</b></th></tr>
-<tr><td><b>E-Mail</b></td><td><b><a href="mailto:mysteriousk69420@gmail.com">mysteriousk69420@gmail.com</a></b></td></tr>
-<tr><td><b>Discord</b></td><td><b><a href="https://discord.com/users/840123998767022110">MisuteriasuKe#6969</a></b></td></tr>
+<tr><td><b>E-Mail</b></td><td><b><a href="mailto:mysteriousk69420@gmail.com">kabirsidhu74@gmail.com</a></b></td></tr>
+<tr><td><b>Discord</b></td><td><b><a href="https://discord.com/users/840123998767022110">@takatin.enjoyer</a></b></td></tr>
 </table>
 </div>
